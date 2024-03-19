@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Bali, Indonesia",
+        "price": 200,
+        "image": "img/bali,indonesia.jpg.crdownload"
+    },
+    {
+        "id": 2,
+        "name":" London, England",
+        "price": 250,
+        "image": "img/london,england.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Dubai, UAE",
+        "price": 290,
+        "image": "img/dubai,UAE.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Singapura, Singapura",
+        "price": 200,
+        "image": "img/singapura1.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Tokyo, Japan",
+        "price": 300,
+        "image": "img/tokyo,japan.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Kuala Lumpur, Malaysia",
+        "price": 200,
+        "image": "img/kuala lumpur.jpg"
+    },
+    {
+        "id": 7,
+        "name":" New York City, USA",
+        "price": 200,
+        "image": "img/newyork.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Madrid, Spanyol",
+        "price": 200,
+        "image": "img/madrid.jpg"
+    }
+
+]

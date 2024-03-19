@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <%- include('layouts/header.ejs') %>
+            <link rel="stylesheet" href="tiket.css">
+            <title>Get your Ticket</title>
+        </head>
+        <body>
+            <div class="container">
+                <%- include('layouts/nav.ejs') %>
+
+                    <!-- mulai tiket -->
+                    <div class="listProduct"></div>
+                </div>
+                <!-- <div class="listProduct"></div> -->
+                <div class="cartTab">
+                    <h1>Shopping Cart</h1>
+                    <div class="listCart"></div>
+                    <h1 class="total"></h1>
+                    <div class="btn">
+                        <button class="close">CLOSE</button>
+                        <button class="checkOut">Check Out</button>
+                    </div>
+                </div>
+                <%- include('layouts/footer.ejs') %>
+                    <script src="tiket.js"></script>
+                </body>
+            </html>
